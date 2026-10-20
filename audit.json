@@ -1,0 +1,10 @@
+{
+  "orders_imported": 24,
+  "unique_items_imported": 48,
+  "duplicate_item_rows_removed": 4,
+  "dates_standardized": 4,
+  "fixed_revenue_cad": 8960.0,
+  "wrong_query_revenue_cad": 12098.0,
+  "overstatement_cad": 3138.0,
+  "report_rows": 6
+}
